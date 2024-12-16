@@ -1,0 +1,16 @@
+/* Make all headers bold */
+h1{
+    font-weight: bold;
+    background-color: orange;
+    margin-right: 50px;
+
+}
+
+p {
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    margin-right: 50px;
+}
+ifrome{
+    margin: 100px;
+}
